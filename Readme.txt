@@ -5,7 +5,6 @@ Grupo 6
 
 Especificações da máquina que correram os algoritmos:
 
-Nome do dispositivo	LAPTOP-E5VURE19
 Processador	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
 RAM instalada	8,00 GB
 Tipo de sistema	Sistema operativo de 64 bits, processador baseado em x64
